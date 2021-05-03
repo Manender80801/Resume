@@ -29,7 +29,7 @@
 * #### Permanent Address -  149, Dhandhal , P O - Dhandhal , P. S- Ram Nagar , District - Udhampur, State-Jammu And Kashmir -  182126
 ---
 ## Computer Skills
-* Have a good knowledge about computers
+* ## Have a good knowledge about computers
 
 
  
