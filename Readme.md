@@ -42,7 +42,7 @@
 * #### Learning New Skills 
 ---
 ## *Declaration*
-I Manender Singh hereby declare that all the information provided above is correct and updated and no manipulation has been done in the CV.*
+I Manender Singh hereby declare that all the information provided above is correct and updated and no manipulation has been done in the CV.
 ### *Manender Singh*
 
 
