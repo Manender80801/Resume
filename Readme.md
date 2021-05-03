@@ -24,6 +24,7 @@
 * #### Parents Details:
 * #### Father’s Name- Kulwant Singh
 * #### DOB- 04-03-1963
+* #### Mother’s Name- Sudesh Kumari
 * #### DOB- 05-05-1971
 * #### Blood Group - O+
 * #### Permanent Address -  149, Dhandhal , P O - Dhandhal , P. S- Ram Nagar , District - Udhampur, State-Jammu And Kashmir -  182126
