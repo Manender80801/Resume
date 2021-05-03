@@ -32,18 +32,18 @@
 * ####   Have a good knowledge about computers and Accounts , MS Excel, HTML , Java.
 ---
 ## Experience
-* ## Company Name :  Teleperformance
-* ## Process Name : Google Curation
+* #### Company Name :  Teleperformance
+* #### Process Name : Google Curation
 ---
 ## Hobbies & Interests
-* ## Playing Cricket, Football
-* ## Internet Surfing
-* ## Travelling And Riding Moterbikes
-* ## Learning New Skills 
+* #### Playing Cricket, Football
+* #### Internet Surfing
+* #### Travelling And Riding Moterbikes
+* #### Learning New Skills 
 ---
 ### Declaration
-*I Manender Singh hereby declare that all the information provided above is correct and updated and no manipulation has been done in the CV.
+*I Manender Singh hereby declare that all the information provided above is correct and updated and no manipulation has been done in the CV.*
 ### Regards 
-### *Manender Singh
+*### Manender Singh*
 
 
