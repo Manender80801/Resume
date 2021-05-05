@@ -1,6 +1,6 @@
----
-# RESUME
----
+
+<h1 align="center">RESUME</h1>
+
 ## Manender  Singh
 #### MOBILE NO- 9891480801 
 #### ADDRESS - Room No 12,  2nd Floor, Plot No - 921,  Mahipalpur Bypass road, New Delhi- 110077
@@ -15,14 +15,18 @@
 * #### Language: Hindi, English (Both Read and Write)
 ---
 ## *Educational Details*
-* ####  Course Name - Bachelors in Commerce 
-* #### Institution - Sri Aurobindo College
-* #### Percentage - 59.92% 
-* #### Period -  2014- 2017
-* #### Schooling - 	Army Public School, Shankar Vihar (10th and 12th) 
+| Course | Institution/ School | Year of Passing | Percentage |
+| --------------- | --------------- | --------------- | ---------- |
+| Bachelors in Commerce | Sri Aurobindo College | 2017 | 59.92% |
+| 12th | Army Public School, Shankar Vihar | 2013| 82.8 |
+| 10th | Army Public School, Shankar Vihar | 2011 | 6.2 CGPA |
+
 ---
 ## *Additional Details*
 * #### Parents Details:
+| Father’s Name | Kulwant Singh | DOB | 04-03-1963 |
+| --------------- | --------------- | --------------- | ---------- |
+| Mother’s Name | Sudesh Kumari | DOB | 05-05-1971 |
 * #### Father’s Name- Kulwant Singh
 * #### DOB- 04-03-1963
 * #### Mother’s Name- Sudesh Kumari
