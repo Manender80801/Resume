@@ -1,7 +1,8 @@
 
 <h1 align="center">RESUME</h1>
 
-## Manender  Singh
+
+## :smiley: Manender  Singh
 #### MOBILE NO- 9891480801 
 #### ADDRESS - Room No 12,  2nd Floor, Plot No - 921,  Mahipalpur Bypass road, New Delhi- 110077
 #### EMAIL - manendersingh10@gmail.com 
@@ -18,7 +19,7 @@
 | Course | Institution/ School | Year of Passing | Percentage |
 | --------------- | --------------- | --------------- | ---------- |
 | Bachelors in Commerce | Sri Aurobindo College | 2017 | 59.92% |
-| 12th | Army Public School, Shankar Vihar | 2013| 82.8 |
+| 12th | Army Public School, Shankar Vihar | 2013| 82.8% |
 | 10th | Army Public School, Shankar Vihar | 2011 | 6.2 CGPA |
 
 ---
