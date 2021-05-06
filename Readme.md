@@ -8,7 +8,7 @@
 <a href="-------" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Somesh Gupta" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/manender-singh-29768a157/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Somesh Kumar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/manender5ingh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Somesh Gupta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCWKWilgAj2KOjZScVH9jlxw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Somesh Kumar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCWKWilgAj2KOjZScVH9jlxw" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83487902/117339990-05d81a80-aebe-11eb-9cb9-14270cc2ae4b.png" alt="Somesh Kumar" height="30" width="40" /></a>
 </p>
 
 
