@@ -108,7 +108,7 @@ Permanent Address: </b>
 <h2 align="center">:eight_spoked_asterisk:Declaration </h2> 
 <details close="close"> 
  
-## I Manender Singh hereby declare that all the information provided above is correct and updated and no manipulation has been done in the CV.
+## I Manender Singh hereby declare that all the information provided above is correct and updated and no manipulation has been done in the Resume.
   
   
 
