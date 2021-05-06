@@ -2,66 +2,115 @@
 <h1 align="center"> MANENDER SINGH </h1>
 
 <p align="center">
-:arrow_double_down:SOCIAL LINKS:arrow_double_down:
-<h3 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Let's Connect on social media and stay connected</h3>
+<h3 align="center">Let's Connect on social media and Explore</h3>
 <p align="center">
-<a href="-------" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Somesh Gupta" height="30" width="40" /></a> 
-<a href="https://www.linkedin.com/in/manender-singh-29768a157/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Somesh Kumar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/manender5ingh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Somesh Gupta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCWKWilgAj2KOjZScVH9jlxw" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83487902/117339990-05d81a80-aebe-11eb-9cb9-14270cc2ae4b.png" alt="Somesh Kumar" height="30" width="40" /></a>
+<a href="https://github.com/Manender80801" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83487902/117340168-3c159a00-aebe-11eb-8479-b6f2752f20cc.png" alt="m s" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/manender-singh-29768a157/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83487902/117341001-38364780-aebf-11eb-9480-8344a1e7184a.png" alt="m s" height="30" width="60" /></a>
+<a href="https://www.instagram.com/manender5ingh/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83487902/117341033-41bfaf80-aebf-11eb-93ac-a9e3caffbd74.jpg" alt="m s" height="40" width="40" /></a>
+<a href="https://m.facebook.com/yoyomonisingh1028?ref=bookmarks" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83487902/117339990-05d81a80-aebe-11eb-9cb9-14270cc2ae4b.png" alt="m s" height="30" width="40" /></a>
 </p>
 
+-----
+<h2 align="center"> :eight_spoked_asterisk:ABOUT ME </h2> 
 
-  
-  
-## Name - Manender  Singh
-#### :phone:- 9891480801 
-#### :house_with_garden: - Room No 12,  2nd Floor, Plot No - 921,  Mahipalpur Bypass road, New Delhi- 110077
-#### :email: - manendersingh10@gmail.com 
+I have 1.5 Years  of Experience as a Executive with Teleperformance. I am a Quick Learner with Good Listening Skills. I have basic knowledge of Mircosoft Office , Jawa , MySql etc.  and currently I am learning Devops from Entry level. 
 
----
-## *Personal Details*
-* #### Name : Manender Singh
-* #### Date of Birth: 10 July, 1995 
-* #### Gender: Male 
-* #### Nationality: Indian 
-* #### Language: Hindi, English (Both Read and Write)
----
-## *Educational Details*
-| Course | Institution/ School | Year of Passing | Percentage |
+-----
+
+<h2 align="center"> :eight_spoked_asterisk:EDUCATIONAL BACKGROUND </h2> 
+<!-- Education Details of Manender Singh -->
+<details close="close"> 
+  <summary><b>Education Details </b></summary>
+  <ol> <br/>
+     <li>
+      :small_red_triangle_down:GRADUATION:small_red_triangle_down:
+        </li>
+    <br/>
+    
+| ***Course*** | ***Institution/ School*** | ***Year of Passing*** | ***Percentage*** |
 | --------------- | --------------- | --------------- | ---------- |
 | Bachelors in Commerce | Sri Aurobindo College | 2017 | 59.92% |
 | 12th | Army Public School, Shankar Vihar | 2013| 82.8% |
 | 10th | Army Public School, Shankar Vihar | 2011 | 6.2 CGPA |
 
----
-## *Additional Details*
-* #### Parents Details:
-| Father’s Name | Kulwant Singh | DOB | 04-03-1963 |
-| --------------- | --------------- | --------------- | ---------- |
-| Mother’s Name | Sudesh Kumari | DOB | 05-05-1971 |
-* #### Father’s Name- Kulwant Singh
-* #### DOB- 04-03-1963
-* #### Mother’s Name- Sudesh Kumari
-* #### DOB- 05-05-1971
-* #### Blood Group - O+
-* #### Permanent Address -  149, Dhandhal , P O - Dhandhal , P. S- Ram Nagar , District - Udhampur, State-Jammu And Kashmir -  182126
----
-## *Computer Skills*
-* ####   Have a good knowledge about computers and Accounts , MS Excel, HTML , Java.
----
-## *Experience*
-* #### Company Name :  Teleperformance
-* #### Process Name : Google Curation
----
-## *Hobbies & Interests*
+</ol>
+</details>
+ 
+ -------
+ 
+ <h2 align="center">:eight_spoked_asterisk:PERSONAL PROFILE</h2> 
+<details close="close"> 
+  <summary><b>Personal Details</b></summary>
+<ul><br/>
+<b>
+Father's Name: </b>
+  
+```sh
+Kulwant Singh
+  ```
+  <b>
+Mobile No: </b>
+  
+```sh
+9891480801
+  ```
+  <b>
+E-mail: </b>
+  
+```sh
+manendersingh10@gmail.com
+  ```
+  <b>
+Date Of Birth: </b>
+
+ ```sh
+10th july 1995
+  ```
+  <b>
+Marital Status: </b>
+
+   ```sh
+Unmarried
+  ```
+ <b> 
+Languages: </b>
+
+   ```sh
+English and Hindi
+  ```
+  <b>
+Correspondence Address:</b>
+
+```sh
+Room No 12,  2nd Floor, Plot No - 921,  Mahipalpur Bypass road, New Delhi- 110077
+  ```
+  <b>
+Permanent Address: </b>
+  
+  ```sh
+149, Dhandhal , P O - Dhandhal , P. S- Ram Nagar , District - Udhampur, State-Jammu And Kashmir -  182126
+  ```
+</ul>
+</details>
+
+-----
+
+<h2 align="center">:eight_spoked_asterisk:Interests and Hobbies </h2> 
+<details close="close"> 
+  
 * #### Playing Cricket, Football
 * #### Internet Surfing
 * #### Travelling And Riding Moterbikes
 * #### Learning New Skills 
----
-## *Declaration*
-I Manender Singh hereby declare that all the information provided above is correct and updated and no manipulation has been done in the CV.
-### *Manender Singh*
+
+-----
+
+<h2 align="center">:eight_spoked_asterisk:Declaration </h2> 
+<details close="close"> 
+ 
+## I Manender Singh hereby declare that all the information provided above is correct and updated and no manipulation has been done in the CV.
+  
+  
+
 
 
