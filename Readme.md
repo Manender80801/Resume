@@ -1,11 +1,17 @@
-
 <h1 align="center">RESUME</h1>
+<h1 align="center"> MANENDER SINGH </h1>
 
 <p align="center">
 :arrow_double_down:SOCIAL LINKS:arrow_double_down:
-<h3 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Let's Connect on social media and Explore:</h3>
-<p align="center">  
-  
+<h3 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Let's Connect on social media and stay connected</h3>
+<p align="center">
+<a href="-------" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Somesh Gupta" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/manender-singh-29768a157/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Somesh Kumar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/manender5ingh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Somesh Gupta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCWKWilgAj2KOjZScVH9jlxw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Somesh Kumar" height="30" width="40" /></a>
+</p>
+
+
   
   
 ## Name - Manender  Singh
