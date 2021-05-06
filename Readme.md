@@ -1,7 +1,13 @@
 
 <h1 align="center">RESUME</h1>
 
-
+<p align="center">
+:arrow_double_down:SOCIAL LINKS:arrow_double_down:
+<h3 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Let's Connect on social media and Explore:</h3>
+<p align="center">  
+  
+  
+  
 ## Name - Manender  Singh
 #### :phone:- 9891480801 
 #### :house_with_garden: - Room No 12,  2nd Floor, Plot No - 921,  Mahipalpur Bypass road, New Delhi- 110077
