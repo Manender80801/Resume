@@ -13,7 +13,7 @@
 -----
 <h2 align="center"> :eight_spoked_asterisk:ABOUT ME </h2> 
 
-I have 1.5 Years  of Experience as a Executive with Teleperformance. I am a Quick Learner with Good Listening Skills. I have basic knowledge of Mircosoft Office , Jawa , MySql etc.  and currently I am learning Devops from Entry level. 
+I have 1.5 Years  of Experience as a Executive with Teleperformance. I am a Quick Learner with Good Listening Skills. I have basic knowledge of Mircosoft Office , Jawa , MySql etc.  
 
 -----
 
