@@ -75,7 +75,7 @@ Unmarried
  <b> 
 Languages: </b>
 
-   ```sh
+```sh
 English and Hindi
   ```
   <b>
